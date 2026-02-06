@@ -42,6 +42,6 @@ A Streamlit-powered machine learning web app that classifies resumes into job ca
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/PurnimaHarshini111/resume-ranker.git
+git clone https://github.com/9AmbicaPulavarthi9/Smart_Resume_Screener
 cd resume-ranker
 
